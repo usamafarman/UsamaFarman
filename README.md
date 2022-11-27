@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 ### My Experiences 🙌
 - [DevOps Engineer (The Entertainer Asia)](https://www.theentertainerme.com/en-ae/dubai-n-emirates) - (Jul'22-Present)
-- [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present)
-- [Software Engineer (To The New)](https://www.tothenew.com/) - (Dec'20-Jul'21)
+- [AntonX (AntonX)](https://antonx.com/) - (Jan'21-Feb'22)
+- [Oil & Gas Development Company Limited (OGDCL)](https://www.ogdcl.com/) - (Dec'19-Dec'20)
 
 ![Usama's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Usama's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
