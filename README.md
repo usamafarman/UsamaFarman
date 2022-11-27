@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="www.linkedin.com/in/farmanusama">
+<a href="https://www.linkedin.com/in/farmanusama/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/usama_farman">
