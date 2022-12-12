@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> -->
 
 #### Database Stack
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>   </p>
+<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="Amazon Aurora" title="Amazon Aurora" width="40" height="40"/>  </p>
 
 <!-- <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" title="couchbase" width="40" height="40"/> -->
 
