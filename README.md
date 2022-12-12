@@ -28,8 +28,13 @@ Here are some ideas to get you started:
 <br/>
 
 ### About Me 🚀
-🌱 I’m a DevOps Engineer with a Master's degree in Computer Systems Engineering </br>
-👨‍💻  I am passionate about automation & I enjoy learning new things. </br>
+🌱 I’m a DevOps Engineer with a **Master's degree** in **Computer Systems Engineering** </br>
+👨‍💻  I am passionate about **automation** & I enjoy learning new things </br>
+🔭 I’m currently working on **AWS** and **Jenkins**
+👯 I’m looking to collaborate on Cloud and automation projects
+💬 Ask me about **DevOps Tools and Practices**
+🌱 I’m currently learning **Azure DevOps** and **Kubernetes**
+
 
 ### My Experiences 🙌
 - [DevOps Engineer (The Entertainer Asia)](https://www.theentertainerme.com/en-ae/dubai-n-emirates) - (Jul'22-Present)
